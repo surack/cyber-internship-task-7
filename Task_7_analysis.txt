@@ -1,0 +1,33 @@
+Task: Identify and Remove Suspicious Browser Extensions
+
+Date: 14 August 2025
+
+Step 1: I opened Google Chrome and accessed the Extensions manager via More Tools > Extensions. All installed extensions were displayed.
+
+Step 2: I carefully reviewed each extension, reading its name and description.
+
+Step 3: For every extension, I clicked "Details" to review the permissions it required. I also searched for the extension names online to check for reviews or red flags.
+
+Step 4: I identified "Free PDF Converter" as unused and noticed it requested permission to access all my website data, which is suspicious. Another extension, "Quick Coupons", had no reviews and seemed redundant.
+
+Step 5: I removed both "Free PDF Converter" and "Quick Coupons" by clicking the Remove button and confirming.
+
+Step 6: I restarted Chrome and noticed pages loaded a little faster.
+
+Step 7: Research revealed that malicious extensions can steal passwords, inject ads, or track browsing. Excessive permissions and a lack of reviews are common warning signs.
+
+Why I did this:
+- To clean up my browsing experience and protect my personal data.
+- To learn how malicious extensions operate and how to spot them.
+
+Observations:
+- Many extensions ask for more permissions than they need.
+- Some extensions were installed automatically by other applications.
+- After cleanup, Chrome performance improved.
+- Regular reviews help keep browser secure and efficient.
+
+Extensions Removed:
+- Free PDF Converter (unused, suspicious permissions)
+- Quick Coupons (no reviews, unnecessary)
+
+Overall, this task taught me the importance of regularly auditing browser extensions and checking for security risks.
