@@ -14,7 +14,7 @@ Review all browser extensions, identify those with suspicious permissions or poo
 5. Removed unnecessary and risky extensions.
 6. Restarted browser and observed performance.
 7. Researched the risks of malicious extensions and documented security takeaways.
-8. Listed the extensions removed and reasons for removal in `experience.txt`.
+8. Listed the extensions removed and reasons for removal in `Task_7_analysis.txt`.
 
 ## Findings
 - Malicious/unused extensions request excessive permissions and often lack user reviews.
